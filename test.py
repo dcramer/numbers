@@ -2,6 +2,7 @@ import unittest
 from nose.tools import eq_
 from numbers import number, rebmun
 
+
 class TestNumbers(unittest.TestCase):
 
     def test_additional(self):
