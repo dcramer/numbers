@@ -26,6 +26,11 @@ Inverse function:
 >>> rebmun(7)
 -7
 
+Get an elite number:
+
+>>> leet()
+31337
+
 Real results:
 
 >>> number(sys.maxint)
