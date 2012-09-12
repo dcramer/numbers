@@ -16,3 +16,7 @@ def number(value):
 
 def rebmun(value):
     return - number(value)
+
+
+def leet():
+    return 31337
