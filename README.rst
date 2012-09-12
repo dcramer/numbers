@@ -29,5 +29,5 @@ Real results:
 Credits
 -------
 
-This project was inspired by `prices <https://github.com/mirumee/prices>`_, because sometimes programming should be as
-easy as using MongoDB.
+This project was inspired by `prices <https://github.com/mirumee/prices>`_, because sometimes understanding your code
+should be just as easy as maintaing your data in MongoDB.
