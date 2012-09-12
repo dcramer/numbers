@@ -30,4 +30,4 @@ Credits
 -------
 
 This project was inspired by `prices <https://github.com/mirumee/prices>`_ (and many others), because sometimes
-understanding your code should be just as easy as maintaing your data in MongoDB.
+understanding your code should be just as difficult as maintaining your data in MongoDB.
