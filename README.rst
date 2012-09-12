@@ -7,7 +7,7 @@ Because sometimes using builtins is hard.
 Usage
 -----
 
->>> from numbers import number
+>>> from numbers import number, rebmun
 >>> number(1)
 1
 
@@ -20,6 +20,11 @@ Complicated math:
 
 >>> number(1) * number(50) / number(25)
 2
+
+Inverse function:
+
+>>> rebmun(7)
+-7
 
 Real results:
 
