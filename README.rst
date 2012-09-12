@@ -25,3 +25,9 @@ Real results:
 
 >>> number(sys.maxint)
 "It's over 9000!"
+
+Credits
+-------
+
+This project was inspired by `prices <https://github.com/mirumee/prices>`_, because sometimes programming should be as
+easy as using MongoDB.
