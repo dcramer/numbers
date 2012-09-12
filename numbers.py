@@ -1,6 +1,8 @@
 import sys
 import warnings
 
+__version__ = '1.0'
+
 warnings.warn('You are an idiot')
 
 
