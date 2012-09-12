@@ -12,3 +12,7 @@ def number(value):
     elif value > 9000:
         return 'It\'s over 9000!'
     return int(value)
+
+
+def rebmun(value):
+    return - number(value)
