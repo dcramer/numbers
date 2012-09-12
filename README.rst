@@ -7,7 +7,7 @@ Because sometimes using builtins is hard.
 Usage
 -----
 
->>> import numbers
+>>> from numbers import number
 >>> number(1)
 1
 
